@@ -36,7 +36,7 @@ class ViewController: UIViewController {
     let fontColor = UIColor(white: 0.1, alpha: 1.0)
     let emitterLayer = CAEmitterLayer()
     
-    let fallRate: CGFloat = 72
+    let fallRate: CGFloat = 96
     let spinRange: CGFloat = 5
     let birthRate: Float = 6
     
